@@ -1,7 +1,5 @@
 USE employee_db;
 
-INSERT INTO department (flavor, price, quantity)
-VALUES ("vanilla", 2.50, 100);
 
 INSERT INTO position (title, salary, department_id) 
 Values ("Full-stack Developer", 100, 0);
